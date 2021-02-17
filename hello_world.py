@@ -4,7 +4,7 @@ Team members: Ryan Donlan, Caleb Eurich, Noah Gans
 """
 
 def main():
-    print("Hello, world!")
+    print("Hello Caleb, Noah and Ryan!")
 
 if __name__ == "__main__":
     main()
